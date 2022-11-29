@@ -1,0 +1,6 @@
+[submodule "build_scripts/renesas-u-boot-cip"]
+	path = build_scripts/renesas-u-boot-cip
+	url = git@github.com:MistySOM/renesas-u-boot-cip.git
+[submodule "build_scripts/rzg_trusted-firmware-a"]
+	path = build_scripts/rzg_trusted-firmware-a
+	url = git@github.com:MistySOM/rzg_trusted-firmware-a.git
