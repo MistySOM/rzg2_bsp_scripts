@@ -4,3 +4,6 @@
 [submodule "build_scripts/rzg_trusted-firmware-a"]
 	path = build_scripts/rzg_trusted-firmware-a
 	url = git@github.com:MistySOM/rzg_trusted-firmware-a.git
+[submodule "build_scripts/rzg2_flash_writer"]
+	path = build_scripts/rzg2_flash_writer
+	url = git@github.com:MistySOM/rzg2_flash_writer.git
